@@ -14,5 +14,5 @@
 //  Modified by chbw
 #define MATRIX_ROWS 5
 #define MATRIX_COLS 15
-#define DIODE_DIRECTION COL2ROW
+#define DIODE_DIRECTION ROW2COL
 
